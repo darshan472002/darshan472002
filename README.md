@@ -1,3 +1,4 @@
+![logo](https://github.com/darshan472002/darshan472002/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Darshan Panchal</h1>
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=darshan472002&label=Profile%20views&color=0e75b6&style=flat" alt="darshan472002" />
